@@ -1,6 +1,5 @@
 #python3 TIY__Functions__8c.py
 
-
 print("\n") #City Names: 8-6:
 
 def city_country(city, country):
