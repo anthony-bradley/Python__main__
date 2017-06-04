@@ -84,12 +84,3 @@ user_3 = User('dan', 'king', str(24), 'berkeley', 'san diego')
 
 user_3.describe_user()
 user_3.greet_user()
-
-
-
-
-
-
-
-
-
