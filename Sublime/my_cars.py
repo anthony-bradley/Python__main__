@@ -16,5 +16,3 @@ print(my_beetle.get_description())
 
 my_tesla = car.ElectricCar('tesla', 'model s', 2018)
 print(my_tesla.get_description())
-
-
