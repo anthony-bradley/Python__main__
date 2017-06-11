@@ -7,4 +7,3 @@ print(my_new_car.get_description())
 
 my_new_car.odometer_reading = 23
 my_new_car.read_odometer()
-
