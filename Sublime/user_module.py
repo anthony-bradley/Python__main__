@@ -62,5 +62,3 @@ class Privileges():
 		print("\nAdmin Privileges: ")
 		for privilege in self.privileges:
 			print("- " + privilege)
-
-
