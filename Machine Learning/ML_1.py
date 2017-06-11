@@ -5,4 +5,3 @@ import Quandl
 
 data = quandl.get_table('WIKI/PRICES')
 print(data)
-
