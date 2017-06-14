@@ -1,0 +1,5 @@
+In Python you can:
+Use functions from seperate files.
+Embed modules in modules.
+Create classes that represent real objects.
+Etc...
